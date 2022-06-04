@@ -10,3 +10,51 @@ ul,
 li {
   list-style-type: none;
 }
+.container {
+  width: 1170px;
+  margin: 0 auto;
+}
+.main {
+  display: flex;
+  justify-content: space-between;
+}
+/* Navbar Part Css */
+#navbar {
+  background-color: black;
+}
+.logo {
+  width: 20%;
+  padding-top: 30px;
+}
+.menu {
+  width: 80%;
+}
+.menu ul {
+  text-align: right;
+}
+.menu ul li {
+  display: inline-block;
+  padding-top: 36px;
+  padding-bottom: 36px;
+}
+.menu ul li a {
+  text-transform: uppercase;
+  color: #fff;
+  font-family: "Roboto Condensed", sans-serif;
+  font-size: 14px;
+  font-weight: 700;
+  padding-right: 20px;
+  padding-left: 20px;
+}
+.menu ul li:last-child a {
+  padding-right: 0;
+}
+/* banner part css */
+#banner {
+  background: url(../image/banner.jpg);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  padding-top: 330px;
+  padding-bottom: 252px;
+}
