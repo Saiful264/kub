@@ -20,7 +20,11 @@ li {
 }
 /* Navbar Part Css */
 #navbar {
-  background-color: black;
+  background-color: rgba(0, 0, 0, 0.4);
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
 }
 .logo {
   width: 20%;
@@ -58,3 +62,54 @@ li {
   padding-top: 330px;
   padding-bottom: 252px;
 }
+.banner-contanier {
+  text-align: center;
+}
+.banner-contanier h1 {
+  font-family: "Roboto Condensed", sans-serif;
+  font-size: 50px;
+  font-weight: 700;
+  color: #fff;
+  text-transform: uppercase;
+  line-height: 0.8;
+  margin-bottom: 4px;
+}
+.banner-contanier h2 {
+  font-family: "Roboto Slab", serif;
+  font-size: 40px;
+  font-weight: 300;
+  color: #fff;
+  text-transform: uppercase;
+  margin-bottom: 6px;
+}
+.banner-contanier p {
+  font-family: "Roboto Slab", serif;
+  font-size: 14px;
+  font-weight: 300;
+  color: #fff;
+}
+/* ----service Part css----  */
+#service {
+  padding-top: 75px;
+  padding-bottom: 83px;
+  background-color: #f9f9f0;
+}
+.service-header {
+  text-align: center;
+}
+.service-header h2 {
+  color: #444;
+  font-family: "Roboto Slab", serif;
+  font-size: 30px;
+  font-weight: 300;
+  padding-bottom: 20px;
+}
+.service-header p {
+  color: #666666;
+  font-family: "Roboto ", sans-serif;
+  font-size: 14px;
+  font-weight: 300;
+}
+/* ----service end css----  */
+/* ----service Part css----  */
+/* ----service Part css----  */
