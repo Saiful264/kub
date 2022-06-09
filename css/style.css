@@ -110,6 +110,49 @@ li {
   font-size: 14px;
   font-weight: 300;
 }
+.service-body {
+  margin-top: 27px;
+}
+.service-main {
+  padding-top: 71px;
+}
+.header {
+  text-align: center;
+}
+.header h3 {
+  font-family: "Roboto Condensed", sans-serif;
+  font-size: 18px;
+  font-weight: 700;
+  color: #444;
+}
+.service-item {
+  width: 370px;
+  background-color: #fff;
+  border: 1px solid #e3e3e3;
+  padding: 15px 15px 25px 15px;
+  box-sizing: border-box;
+}
+.service-item img {
+  display: block;
+}
+.service-text {
+  text-align: center;
+  padding-top: 25px;
+}
+.service-item h3 {
+  font-family: "Roboto Slab", serif;
+  font-size: 17px;
+  font-weight: 700;
+  color: #444;
+}
+.service-item p {
+  font-family: "Roboto ", sans-serif;
+  font-size: 14px;
+  font-weight: 700;
+  color: #666;
+  padding-top: 8px;
+  line-height: 22px;
+}
 /* ----service end css----  */
 /* ----service Part css----  */
 /* ----service Part css----  */
