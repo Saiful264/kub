@@ -154,5 +154,26 @@ li {
   line-height: 22px;
 }
 /* ----service end css----  */
-/* ----service Part css----  */
-/* ----service Part css----  */
+/* ----shots Part css----  */
+#shots {
+  padding-top: 41px;
+  padding-bottom: 42px;
+  background-color: #2c2c2c;
+}
+.shots-text {
+  text-align: center;
+  padding-bottom: 42px;
+}
+.shots-text h3 {
+  font-family: "Roboto Condensed", sans-serif;
+  font-size: 18px;
+  font-weight: 700;
+  color: #d5d5d5;
+  text-transform: uppercase;
+}
+.instagram-buttom {
+  padding-top: 60px;
+}
+/* ----shots Part css----  */
+/* ----shots Part css----  */
+/* ----shots Part css----  */
