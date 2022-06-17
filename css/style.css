@@ -313,18 +313,91 @@ li {
   width: 109px;
   height: 2px;
   background-color: #28b8d8;
+  font-size: 11px;
 }
 .right i {
-  color: #999999;
   font-size: 11px;
 }
+
 .right span {
-  color: #999999;
+  font-family: "Roboto ", sans-serif;
   font-size: 11px;
 }
+
 /* ----journal Part css end----  */
-/* ----journal Part css start----  */
-/* ----journal Part css end----  */
+/* ----Protfolio Part css start----  */
+#protfoiio {
+  padding-top: 80px;
+  padding-bottom: 80px;
+}
+
+.port-left {
+  width: 570px;
+}
+.port-right {
+  width: 570px;
+}
+#protfoiio .shots-text {
+  text-align: left;
+}
+#protfoiio .shots-text h3 {
+  font-family: "Roboto Condensed", sans-serif;
+  font-size: 18px;
+  font-weight: 700;
+  color: #444444;
+  position: relative;
+  text-transform: uppercase;
+  display: inline-block;
+}
+#protfoiio.shots-text h3::before {
+  content: "";
+  position: absolute;
+  top: 50%;
+  right: -115px;
+  transform: translateY(-50%);
+  width: 100px;
+  height: 1px;
+  background-color: #535353;
+}
+#protfoiio .shots-text h3::after {
+  display: none;
+}
+.port-img {
+  width: 197px;
+}
+.port-img img {
+  display: block;
+}
+.port-text {
+  width: 346px;
+}
+.port-text h5 {
+  font-family: "Roboto Slab", serif;
+  font-size: 18px;
+  font-weight: 300;
+  color: #666666;
+  line-height: 0.8;
+  line-height: 28px;
+  padding-bottom: 24px;
+}
+.port-text p {
+  font-family: "Roboto ", sans-serif;
+  font-size: 14px;
+  font-weight: 400;
+  color: #666666;
+  line-height: 24px;
+}
+.port-icon {
+  width: 47px;
+}
+.port-icon-text {
+  width: 500px;
+}
+.port-icon-row {
+  padding-bottom: 20px;
+}
+
+/* ----Protfolio Part css end----  */
 /* ----journal Part css start----  */
 /* ----journal Part css end----  */
 /* ----journal Part css start----  */
