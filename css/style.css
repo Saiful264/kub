@@ -339,6 +339,7 @@ li {
 }
 #protfoiio .shots-text {
   text-align: left;
+  padding-bottom: 25px;
 }
 #protfoiio .shots-text h3 {
   font-family: "Roboto Condensed", sans-serif;
@@ -396,9 +397,114 @@ li {
 .port-icon-row {
   padding-bottom: 20px;
 }
-
+.port-icon-row h4 {
+  font-family: "Roboto Slab", serif;
+  font-size: 17px;
+  font-weight: 700;
+  color: #444444;
+  padding-bottom: 14px;
+  line-height: 0.8;
+  line-height: 22px;
+}
+.port-icon-row p {
+  font-family: "Roboto ", sans-serif;
+  font-size: 15px;
+  font-weight: 400;
+  color: #666666;
+  line-height: 0.8;
+  line-height: 22px;
+}
 /* ----Protfolio Part css end----  */
-/* ----journal Part css start----  */
-/* ----journal Part css end----  */
-/* ----journal Part css start----  */
-/* ----journal Part css end----  */
+/* ----footer Part css start----  */
+#footer {
+  padding-top: 70px;
+  padding-bottom: 70px;
+  background-color: #373737;
+}
+.footer-item {
+  text-align: left;
+}
+.footer1 {
+  width: 255px;
+}
+#footer h2 {
+  font-family: "Roboto Condensed", sans-serif;
+  font-size: 16px;
+  font-weight: 700;
+  color: #f0f0f0;
+  text-transform: uppercase;
+}
+#footer p {
+  font-family: "Roboto ", sans-serif;
+  font-size: 14px;
+  font-weight: 400;
+  line-height: 0.8px;
+  line-height: 22px;
+  color: #cacaca;
+}
+.main-f {
+  display: flex;
+}
+.footer1-wapper {
+  padding-top: 26px;
+}
+.footer-icon {
+  width: 13px;
+}
+.footer-icon img {
+  display: block;
+  padding-top: 6px;
+}
+#footer .iner-text {
+  padding-top: 10px;
+}
+.footer-text {
+  width: 178px;
+  padding-left: 15px;
+}
+.footer-text p {
+  font-family: "Roboto ", sans-serif;
+  font-size: 14px;
+  font-weight: 400;
+  color: #cacaca;
+  line-height: 0.8px;
+  padding-top: 0;
+}
+.footer2 {
+  width: 224px;
+}
+.footer2 .text-1 {
+  padding-bottom: 22px;
+}
+
+.footer3 {
+  width: 206px;
+}
+#footer .text {
+  padding-bottom: 22px;
+}
+#footer .text span {
+  font-family: "Roboto ", sans-serif;
+  font-size: 14px;
+  font-weight: 400;
+  color: #929292;
+}
+.footer4 {
+  width: 240px;
+}
+.footer4 p {
+  padding-bottom: 25px;
+}
+footer {
+  background-color: #333333;
+}
+footer p {
+  padding-top: 40px;
+  padding-bottom: 40px;
+  font-family: "Roboto ", sans-serif;
+  font-size: 14px;
+  font-weight: 400;
+  color: #cacaca;
+}
+
+/* ----footer Part css end----  */
